@@ -89,3 +89,13 @@ ul li a:hover {
     font-size: 9px;
     margin-left: 20px;
 }
+.footer {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+.icon-social {
+    width: 20px !important;
+    padding: 0px 10px 0px 10px;
+    margin-top: 10px;
+}
